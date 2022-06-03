@@ -17,4 +17,4 @@ Rather than a final coding project, this project consists of creating an initial
 
 ### Code
 
-Please click the **"View on Github"** buttom on the top of the page to see the project code and other works.
+Please click the **"View on Github"** buttom on the top of the page to see the portfolio link
